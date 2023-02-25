@@ -1,0 +1,15 @@
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Boutique Hotel.exe.config
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Boutique Hotel.exe
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Boutique Hotel.pdb
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Boutique Hotel.exe
+C:\Users\Alper\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Boutique Hotel.pdb

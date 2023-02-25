@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boutique Hotel", "WindowsFormsApp3\Boutique Hotel.csproj", "{50836331-0C97-4CCA-A547-8F4292C3C225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50836331-0C97-4CCA-A547-8F4292C3C225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50836331-0C97-4CCA-A547-8F4292C3C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50836331-0C97-4CCA-A547-8F4292C3C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50836331-0C97-4CCA-A547-8F4292C3C225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12B9323D-C91F-419A-BA23-BF82C3C37EC6}
+	EndGlobalSection
+EndGlobal
